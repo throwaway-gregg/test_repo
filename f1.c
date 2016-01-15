@@ -4,5 +4,5 @@ int main()
 {
     printf("Hello\n");
     printf("Edited\n");
-    return 0;
+    return EXIT_SUCCESS;
 }
